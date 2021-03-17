@@ -1,36 +1,31 @@
-## Welcome to GitHub Pages
+## Bienvenue sur le site de la brasserie SansNom
 
-You can use the [editor on GitHub](https://github.com/johanGehin/localbrewery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Notre BRasserie c'est :
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Des brassins ephémères : rares sont les occasions de refaire la même bière 2 fois quand on voit l'étendu des possibles
+Un circuit ultra court : si vous revez d'encore plus court, RDV dans les champs d'orges pour brasser la bière vous même 
+Aussi ecolo que possible :
+- Bouteilles a bouchon mécanique, en consigne libre
+- Des ingrédients top ( Yec'Hed Malt, Houblons Bio (si possible, soyons franc), fruits du jardin)
+- Etiquettes en papier
+- Pas de colles
+- Pas d'intrant aromatiques autres que les houblons
+- Pas de colorant autres que les malts eux-mêmes
+- Ajouts de lactose ou autre sucres rare et précisés
 
-### Markdown
+## Disponible à la brasseria actuellement
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### La Ticla
+![Image](src)
+### Back Currant
+![Image](src)
+### SnapBack
+![Image](src)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Pour commander : mail à @
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johanGehin/localbrewery/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 

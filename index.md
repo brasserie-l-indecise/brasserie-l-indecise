@@ -1,6 +1,5 @@
 ## Bienvenue sur le site de la brasserie SansNom
 
-![Image](https://johangehin.github.io/localbrewery/Image_052.png)
 La Brasserie c'est :
 
 Des brassins ephémères : rares sont les occasions de refaire la même bière 2 fois quand on voit l'étendu des possibles.
@@ -17,7 +16,7 @@ Aussi ecolo que possible :
 ## Disponible à la brasseria actuellement
 
 ### La Ticla
-![Image](https://johangehin.github.io/localbrewery/Image_051.png)
+![Image](https://johangehin.github.io/localbrewery/Image_052.png)
 
 75cl - 4€ - Stock restant : 24
 ### Back Currant
@@ -25,7 +24,7 @@ Aussi ecolo que possible :
 50cl - 3,5€ - Stock restant : 2
 75cl - 5€ - Stock restant : 13
 ### SnapBack
-![Image](https://johangehin.github.io/localbrewery/Image_052.png)
+![Image](https://johangehin.github.io/localbrewery/Image_051.png)
 50cl - 4,5€ - Stock restant : 12
 75cl - 6€ - Stock restant : 23
 

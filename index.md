@@ -1,9 +1,10 @@
 ## Bienvenue sur le site de la brasserie SansNom
-src/image/img_
-Notre BRasserie c'est :
 
-Des brassins ephémères : rares sont les occasions de refaire la même bière 2 fois quand on voit l'étendu des possibles
-Un circuit ultra court : si vous revez d'encore plus court, RDV dans les champs d'orges pour brasser la bière vous même 
+![Image](https://johangehin.github.io/localbrewery/Image_052.png)
+La Brasserie c'est :
+
+Des brassins ephémères : rares sont les occasions de refaire la même bière 2 fois quand on voit l'étendu des possibles.
+Un circuit ultra court : si vous revez d'encore plus court, RDV dans les champs d'orges pour brasser la bière vous même.
 Aussi ecolo que possible :
 - Bouteilles a bouchon mécanique, en consigne libre
 - Des ingrédients top ( Yec'Hed Malt, Houblons Bio (si possible, soyons franc), fruits du jardin)
@@ -16,12 +17,17 @@ Aussi ecolo que possible :
 ## Disponible à la brasseria actuellement
 
 ### La Ticla
-![Image](src/Image_051)
-### Back Currant
-![Image](src/Image_050)
-### SnapBack
-![Image](src/Image_052)
+![Image](https://johangehin.github.io/localbrewery/Image_051.png)
 
+75cl - 4€ - Stock restant : 24
+### Back Currant
+![Image](https://johangehin.github.io/localbrewery/Image_050.png)
+50cl - 3,5€ - Stock restant : 2
+75cl - 5€ - Stock restant : 13
+### SnapBack
+![Image](https://johangehin.github.io/localbrewery/Image_052.png)
+50cl - 4,5€ - Stock restant : 12
+75cl - 6€ - Stock restant : 23
 
 ## Pour commander : mail à @
 

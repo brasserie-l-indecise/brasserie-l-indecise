@@ -1,6 +1,6 @@
 ## Bienvenue sur le site de la brasserie SansNom
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_4)
+![Image](https://johangehin.github.io/localbrewery/img_brasserie_4.jpg)
 
 La Brasserie, dont j'ai pas encore trouvé le nom, c'est :
 
@@ -44,17 +44,17 @@ Un style que j'apprécie particulièrement.
 
 ## Nos réalisations
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_1)
+![Image](https://johangehin.github.io/localbrewery/img_brasserie_1.jpg)
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_2)
+![Image](https://johangehin.github.io/localbrewery/img_brasserie_2.png)
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie-3)
+![Image](https://johangehin.github.io/localbrewery/img_brasserie-3.jpg)
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_4)
+![Image](https://johangehin.github.io/localbrewery/img_brasserie_4.jpg)
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_5)
+![Image](https://johangehin.github.io/localbrewery/img_brasserie_5.jpg)
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_6)
+![Image](https://johangehin.github.io/localbrewery/img_brasserie_6.jpg)
 
 ## Pour commander : mail à @
 

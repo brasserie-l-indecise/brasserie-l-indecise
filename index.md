@@ -14,7 +14,7 @@ La Brasserie, c'est :
   * Pas de colorant autres que les malts eux-mêmes
   * Ajouts de lactose ou autre sucres rare et précisés
 
-*Tips de conservation : Bouteille à la verticale et au frais. Ne pas secouer :)  
+*Tips de conservation : Bouteille à la verticale et au frais. Ne pas secouer :)  *
 
 ## Disponible à la brasserie actuellement
 
@@ -58,4 +58,4 @@ Un style que j'apprécie particulièrement.
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_6.jpg)
 
-## Pour commander : mail à [Brasserie L Indecise!](mailto:?to=brasserie.l.indecise@gmail.com)
+## Pour commander : mail à [Brasserie L Indecise!](mailto:?to=brasserie.l.indecise@gmail.com) *brasserie.l.indecise@gmail.com*

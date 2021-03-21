@@ -1,6 +1,6 @@
 ## Bienvenue sur le site de la Bbrasserie L'Indecise
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_4.jpg)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_4.jpg)
 
 La Brasserie, c'est :
 
@@ -19,12 +19,12 @@ La Brasserie, c'est :
 ## Disponible à la brasserie actuellement
 
 ### La Ticla - Style : Ginger Ale
-![Image](https://johangehin.github.io/localbrewery/Image_052.png)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_052.png)
 
 > 75cl - 4€ - Stock restant : 24
 
 ### Back Currant - Style : Stout
-![Image](https://johangehin.github.io/localbrewery/Image_050.png)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_050.png)
 
 
 > 50cl - 3,5€ - Stock restant : 2
@@ -32,7 +32,7 @@ La Brasserie, c'est :
 > 75cl - 5€ - Stock restant : 13
 
 ### SnapBack - Style : New England IPA
-![Image](https://johangehin.github.io/localbrewery/Image_051.png)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_051.png)
 
 > 50cl - 4,5€ - Stock restant : 12
 
@@ -46,22 +46,16 @@ Un style que j'apprécie particulièrement.
 
 ## Nos réalisations
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_1.jpg)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_1.jpg)
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_2.png)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_2.png)
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie-3.jpg)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie-3.jpg)
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_4.jpg)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_4.jpg)
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_5.jpg)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_5.jpg)
 
-![Image](https://johangehin.github.io/localbrewery/img_brasserie_6.jpg)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_6.jpg)
 
 ## Pour commander : mail à [link to Brasserie L Indecise!](brasserie.l.indecise@gmail.com)
-
-```
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

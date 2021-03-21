@@ -1,4 +1,4 @@
-## Bienvenue sur le site de la Bbrasserie L'Indecise
+## Bienvenue sur le site de la Brasserie L'Indecise
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_4.jpg)
 
@@ -7,7 +7,7 @@ La Brasserie, c'est :
 * Des brassins ephémères : rares sont les occasions de refaire la même bière 2 fois quand on voit l'étendu des possibles.
 * Un circuit ultra court : si vous revez d'encore plus court, RDV dans les champs d'orges pour brasser la bière vous même.
 * Aussi ecolo que possible :
-  * Bouteilles à bouchon mécanique, en consigne libre
+  * Bouteilles à bouchon mécanique, en consigne libre (je vous fais confiance, jouez le jeu!)
   * Des ingrédients top et locaux (Yec'Hed Malt, Houblons Bio si possible, fruits du jardin)
   * Etiquettes en papier
   * Pas de colles

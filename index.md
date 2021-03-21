@@ -12,7 +12,7 @@ La Brasserie, c'est :
   * Etiquettes en papier
   * Pas de colles
   * Pas de colorant autres que les malts eux-mêmes
-  * Ajouts de lactose ou autre sucres rare et précisés
+  * Les ajouts de lactose ou autres sont toujours précisés
 
 *Tips de conservation : Bouteille à la verticale et au frais. Ne pas secouer :)  *
 

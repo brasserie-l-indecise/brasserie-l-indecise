@@ -1,8 +1,8 @@
-## Bienvenue sur le site de la brasserie SansNom
+## Bienvenue sur le site de la Bbrasserie L'Indecise
 
 ![Image](https://johangehin.github.io/localbrewery/img_brasserie_4.jpg)
 
-La Brasserie, dont j'ai pas encore trouvé le nom, c'est :
+La Brasserie, c'est :
 
 * Des brassins ephémères : rares sont les occasions de refaire la même bière 2 fois quand on voit l'étendu des possibles.
 * Un circuit ultra court : si vous revez d'encore plus court, RDV dans les champs d'orges pour brasser la bière vous même.
@@ -13,6 +13,8 @@ La Brasserie, dont j'ai pas encore trouvé le nom, c'est :
   * Pas de colles
   * Pas de colorant autres que les malts eux-mêmes
   * Ajouts de lactose ou autre sucres rare et précisés
+
+*Tips de conservation : Bouteille à la verticale et au frais. Ne pas secouer :)  
 
 ## Disponible à la brasserie actuellement
 
@@ -56,7 +58,7 @@ Un style que j'apprécie particulièrement.
 
 ![Image](https://johangehin.github.io/localbrewery/img_brasserie_6.jpg)
 
-## Pour commander : mail à @
+## Pour commander : mail à [link to Brasserie L Indecise!](brasserie.l.indecise@gmail.com)
 
 ```
 

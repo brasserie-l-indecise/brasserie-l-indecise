@@ -38,6 +38,12 @@ La Brasserie, c'est :
 
 > 75cl - 6€ - Stock restant : 20
 
+### Off the lip - 8,6% - Style : Double black IPA
+Une Double BIPA, ou black DIPA, pour les solides ! Un houblonnage Néo-Zelandais pour fixer le caractère racé de la bière.
+Une réussite ! Comme d'habitude, bière non filtrée -> c'est pas de l'orangina, on ne secoue pas.
+
+> 75cl - 6,5€ - Stock restant : 8
+
 ## En Fermentation 
 
 

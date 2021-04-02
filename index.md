@@ -49,7 +49,7 @@ Une réussite ! Comme d'habitude, bière non filtrée -> c'est pas de l'orangina
 
 ### Cut Back Love - Style : California Common
 
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_053.png)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_054.png)
 Un style que j'apprécie particulièrement. Ca fait du bien de boire des lagers equilibrées quand le temps est beau.
 
 > 50cl - 4€ - Stock restant : 4

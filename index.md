@@ -39,16 +39,24 @@ La Brasserie, c'est :
 > 75cl - 6€ - Stock restant : 20
 
 ### Off the lip - 8,6% - Style : Double black IPA
+
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_053.png)
 Une Double BIPA, ou black DIPA, pour les solides ! Un houblonnage Néo-Zelandais pour fixer le caractère racé de la bière.
 Une réussite ! Comme d'habitude, bière non filtrée -> c'est pas de l'orangina, on ne secoue pas.
 
 > 75cl - 6,5€ - Stock restant : 8
 
-## En Fermentation 
-
-
 ### Cut Back Love - Style : California Common
-Un style que j'apprécie particulièrement.
+
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_053.png)
+Un style que j'apprécie particulièrement. Ca fait du bien de boire des lagers equilibrées quand le temps est beau.
+
+
+## A venir / En Fermentation 
+
+Une NEIPA : je reprends la snapback, je secoue, et on regarde ce que ça donne :)
+
+Une APA : un peu plus classique, pour satisfaire ttes les bouches 
 
 ## Nos réalisations
 

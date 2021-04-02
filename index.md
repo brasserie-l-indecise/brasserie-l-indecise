@@ -20,12 +20,12 @@ La Brasserie, c'est :
 
 ### La Ticla - Style : Ginger Ale
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_052.png)
+Retour des consommateurs : Delicieux avec des sushi/makis !
 
 > 75cl - 4€ - Stock restant : 21
 
 ### Back Currant - Style : Stout
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_050.png)
-
 
 > 50cl - 3,5€ - Stock restant : 2
 
@@ -33,6 +33,7 @@ La Brasserie, c'est :
 
 ### SnapBack - Style : New England IPA
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_051.png)
+Une bière qui donne le sourire !
 
 > 50cl - 4,5€ - Stock restant : 6
 
@@ -51,6 +52,9 @@ Une réussite ! Comme d'habitude, bière non filtrée -> c'est pas de l'orangina
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_053.png)
 Un style que j'apprécie particulièrement. Ca fait du bien de boire des lagers equilibrées quand le temps est beau.
 
+> 50cl - 4€ - Stock restant : 4
+
+> 75cl - 5,5€ - Stock restant : 22
 
 ## A venir / En Fermentation 
 

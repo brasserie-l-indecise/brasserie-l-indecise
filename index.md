@@ -49,6 +49,7 @@ Une réussite ! Comme d'habitude, bière non filtrée -> c'est pas de l'orangina
 
 ### Cut Back Love - Style : California Common
 
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_055.jpg)
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_054.png)
 Un style que j'apprécie particulièrement. Ca fait du bien de boire des lagers equilibrées quand le temps est beau.
 
@@ -65,6 +66,8 @@ Une APA : un peu plus classique, pour satisfaire ttes les bouches
 ## Nos réalisations
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_1.jpg)
+
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_055.jpg)
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_2.png)
 

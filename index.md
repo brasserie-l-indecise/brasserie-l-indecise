@@ -22,7 +22,7 @@ La Brasserie, c'est :
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_052.png)
 Retour des consommateurs : Delicieux avec des sushi/makis !
 
-> 75cl - 4€ - Stock restant : 11
+> 75cl - 4€ - Stock restant : 8
 
 ### Back Currant - Style : Stout
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_050.png)
@@ -45,7 +45,7 @@ Une bière qui donne le sourire !
 Une Double BIPA, ou black DIPA, pour les solides ! Un houblonnage Néo-Zelandais pour fixer le caractère racé de la bière.
 Une réussite ! Comme d'habitude, bière non filtrée -> c'est pas de l'orangina, on ne secoue pas.
 
-> 75cl - 6,5€ - Stock restant : 9
+> 75cl - 6,5€ - Stock restant : 7
 
 ### Cut Back Love - Style : California Common
 
@@ -55,9 +55,9 @@ Un style que j'apprécie particulièrement. Ca fait du bien de boire des lagers 
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_054.png)
 
-> 50cl - 4€ - Stock restant : 4
+> 50cl - 4€ - Stock restant : 3
 
-> 75cl - 5,5€ - Stock restant : 19
+> 75cl - 5,5€ - Stock restant : 10
 
 ## A venir / En Fermentation 
 

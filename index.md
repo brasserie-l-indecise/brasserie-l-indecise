@@ -24,21 +24,6 @@ Retour des consommateurs : Delicieux avec des sushi/makis !
 
 > 75cl - 4€ - Stock restant : 8
 
-### Back Currant - Style : Stout
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_050.png)
-
-> 50cl - 3,5€ - Stock restant : 0
-
-> 75cl - 5€ - Stock restant : 0
-
-### SnapBack - Style : New England IPA
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_051.png)
-Une bière qui donne le sourire !
-
-> 50cl - 4,5€ - Stock restant : 0
-
-> 75cl - 6€ - Stock restant : 0
-
 ### Off the lip - 8,6% - Style : Double black IPA
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_053.png)
@@ -59,11 +44,21 @@ Un style que j'apprécie particulièrement. Ca fait du bien de boire des lagers 
 
 > 75cl - 5,5€ - Stock restant : 10
 
-## A venir / En Fermentation 
+### Illusion - Style New England IPA 
+
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_056.png)
 
 Une NEIPA : je reprends la snapback, je secoue, et on regarde ce que ça donne :)
 
+> 75cl - 6€ - Stock restant : 16
+
+## A venir / En Fermentation 
+
 Une APA : un peu plus classique, pour satisfaire ttes les bouches 
+
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_057.png)
+
+Une Kveik Voss : un peu plus pas classique, pour satisfaire les aventuriers
 
 ## Nos réalisations
 

@@ -52,13 +52,29 @@ Une NEIPA : je reprends la snapback, je secoue, et on regarde ce que ça donne :
 
 > 75cl - 6€ - Stock restant : 16
 
-## A venir / En Fermentation 
+## American Pale Ale
 
-Une APA : un peu plus classique, pour satisfaire ttes les bouches 
+Une APA : un peu plus classique, pour satisfaire ttes les bouches. Un peu plus sombre que le style le voudrait.
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_057.png)
 
-Une Kveik Voss : un peu plus pas classique, pour satisfaire les aventuriers
+> 75cl - 5€ - Stock restant : 16
+
+## Kveik DDH IPA : Kveik Voss
+
+Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et fruités. 
+
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_058.png)
+
+> 75cl - 7€ - Stock restant : 20
+ 
+> 50cl - 5€ - Stock restant : 3
+
+>(je garde les autres pour moi !)
+
+## A venir
+
+...
 
 ## Nos réalisations
 

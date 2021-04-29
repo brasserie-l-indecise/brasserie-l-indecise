@@ -52,7 +52,7 @@ Une NEIPA : je reprends la snapback, je secoue, et on regarde ce que ça donne :
 
 > 75cl - 6€ - Stock restant : 16
 
-## American Pale Ale
+## Break Time - American Pale Ale
 
 Une APA : un peu plus classique, pour satisfaire ttes les bouches. Un peu plus sombre que le style le voudrait.
 
@@ -60,9 +60,9 @@ Une APA : un peu plus classique, pour satisfaire ttes les bouches. Un peu plus s
 
 > 75cl - 5€ - Stock restant : 16
 
-## Kveik DDH IPA : Kveik Voss
+## Delusion - Kveik DDH IPA (Kveik Voss)
 
-Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et fruités. 
+Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et fruité.
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_058.png)
 

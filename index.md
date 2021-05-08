@@ -22,7 +22,7 @@ La Brasserie, c'est :
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_052.png)
 Retour des consommateurs : Delicieux avec des sushi/makis !
 
-> 75cl - 4€ - Stock restant : 8
+> 75cl - 4€ - Stock restant : 7
 
 ### Off the lip - 8,6% - Style : Double black IPA
 
@@ -30,7 +30,7 @@ Retour des consommateurs : Delicieux avec des sushi/makis !
 Une Double BIPA, ou black DIPA, pour les solides ! Un houblonnage Néo-Zelandais pour fixer le caractère racé de la bière.
 Une réussite ! Comme d'habitude, bière non filtrée -> c'est pas de l'orangina, on ne secoue pas.
 
-> 75cl - 6€ - Stock restant : 7
+> 75cl - 6€ - Stock restant : 3
 
 ### Cut Back Love - Style : California Common
 
@@ -50,7 +50,7 @@ Une APA : un peu plus classique, pour satisfaire ttes les bouches. Un peu plus s
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_057.png)
 
-> 75cl - 5€ - Stock restant : 16
+> 75cl - 5€ - Stock restant : 12
 
 ## Delusion - Kveik DDH IPA (Kveik Voss)
 
@@ -58,7 +58,7 @@ Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et 
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_058.png)
 
-> 75cl - 7€ - Stock restant : 20
+> 75cl - 7€ - Stock restant : 18
  
 > 50cl - 5€ - Stock restant : 2
 

@@ -42,7 +42,7 @@ Un style que j'apprécie particulièrement. Ca fait du bien de boire des lagers 
 
 > 50cl - 4€ - Stock restant : 3
 
-> 75cl - 5,5€ - Stock restant : 10
+> 75cl - 5,5€ - Stock restant : 8
 
 ## Break Time - American Pale Ale
 
@@ -50,7 +50,7 @@ Une APA : un peu plus classique, pour satisfaire ttes les bouches. Un peu plus s
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_057.png)
 
-> 75cl - 5€ - Stock restant : 12
+> 75cl - 5€ - Stock restant : 11
 
 ## Delusion - Kveik DDH IPA (Kveik Voss)
 
@@ -58,7 +58,7 @@ Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et 
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_058.png)
 
-> 75cl - 7€ - Stock restant : 18
+> 75cl - 7€ - Stock restant : 17
  
 > 50cl - 5€ - Stock restant : 2
 

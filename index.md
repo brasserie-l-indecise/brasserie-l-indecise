@@ -22,16 +22,8 @@ La Brasserie, c'est :
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_052.png)
 Retour des consommateurs : Delicieux avec des sushi/makis !
 
-> 75cl - 4€ - Stock restant : 7
-
-### Off the lip - 8,6% - Style : Double black IPA
-
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_053.png)
-Une Double BIPA, ou black DIPA, pour les solides ! Un houblonnage Néo-Zelandais pour fixer le caractère racé de la bière.
-Une réussite ! Comme d'habitude, bière non filtrée -> c'est pas de l'orangina, on ne secoue pas.
-
-> 75cl - 6€ - Stock restant : 3
-
+> 75cl - 4€ - Stock restant : 5
+> 
 ### Cut Back Love - Style : California Common
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_055.jpg)
@@ -42,15 +34,15 @@ Un style que j'apprécie particulièrement. Ca fait du bien de boire des lagers 
 
 > 50cl - 4€ - Stock restant : 3
 
-> 75cl - 5,5€ - Stock restant : 8
+> 75cl - 5,5€ - Stock restant : 4
 
-## Break Time - American Pale Ale
+## Break Time - American Pale Ale / IPA
 
-Une APA : un peu plus classique, pour satisfaire ttes les bouches. Un peu plus sombre que le style le voudrait.
+Une APA : un peu plus classique, pour satisfaire ttes les bouches. Un peu plus sombre et amère que le style le voudrait.
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_057.png)
 
-> 75cl - 5€ - Stock restant : 11
+> 75cl - 5€ - Stock restant : 8
 
 ## Delusion - Kveik DDH IPA (Kveik Voss)
 
@@ -58,11 +50,27 @@ Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et 
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_058.png)
 
-> 75cl - 7€ - Stock restant : 17
+> 75cl - 6,5€ - Stock restant : 10
  
 > 50cl - 5€ - Stock restant : 2
 
 >(je garde les autres pour moi !)
+
+## Moyo - Kveik DDH IPA (Kveik Voss)
+
+Une belle IPA claire et hazy comme on aime, aux houblons Pacifica et Rogue NZ.
+Un arôme fruité avec touches de fleurs d'orangers si on cherche bien !
+
+> 75cl - 6,5€ - Stock restant : 10
+
+## Mango Piano 2.0 - Milkshake Mango IPA 
+
+Alors, c'est aussi bon que la première ?
+
+> 75cl - 6,5€ - Stock restant : 20
+ 
+> 50cl - 5€ - Stock restant : 6
+
 
 ## A venir
 

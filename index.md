@@ -65,11 +65,14 @@ Un arôme fruité avec touches de fleurs d'orangers si on cherche bien !
 
 ## Mango Piano 2.0 - Milkshake Mango IPA 
 
-Alors, c'est aussi bon que la première ?
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_060.jpg)
 
-> 75cl - 6,5€ - Stock restant : 20
+Alors, c'est aussi bon que la première ?
+Je vais être honnete, mais moins le gout de mangue que la première. ça reste une bonne IPA, enjoy
+
+> 75cl - 5,5€ - Stock restant : 20
  
-> 50cl - 5€ - Stock restant : 6
+> 50cl - 4€ - Stock restant : 6
 
 
 ## A venir

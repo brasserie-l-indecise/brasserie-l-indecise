@@ -42,7 +42,7 @@ Une APA : un peu plus classique, pour satisfaire ttes les bouches. Un peu plus s
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_057.png)
 
-> 75cl - 5€ - Stock restant : 8
+> 75cl - 5€ - Stock restant : 3
 
 ## Delusion - Kveik DDH IPA (Kveik Voss)
 
@@ -50,7 +50,7 @@ Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et 
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_058.png)
 
-> 75cl - 6,5€ - Stock restant : 10
+> 75cl - 6,5€ - Stock restant : 2
  
 > 50cl - 5€ - Stock restant : 2
 
@@ -61,7 +61,7 @@ Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et 
 Une belle IPA claire et hazy comme on aime, aux houblons Pacifica et Rogue NZ.
 Un arôme fruité avec touches de fleurs d'orangers si on cherche bien !
 
-> 75cl - 6,5€ - Stock restant : 10
+> Tout vendu !
 
 ## Mango Piano 2.0 - Milkshake Mango IPA 
 
@@ -77,6 +77,9 @@ Je vais être honnete, mais moins le gout de mangue que la première. ça reste 
 
 ## A venir
 
+## Une Robust Porter au seigle
+## Une Californian Lager 
+## Une demande particulière ?
 ...
 
 ## Nos réalisations

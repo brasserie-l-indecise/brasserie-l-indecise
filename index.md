@@ -66,13 +66,19 @@ Je vais être honnete, elle a moins le gout de mangue que la première. ça rest
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_059.png)
 
+Une belle porter au seigle torréfié. On retrouve des aromes bien chocolatés là dessus. 
+
 > 75cl - 5,5€ - Stock restant : 20
  
 > 50cl - 4€ - Stock restant : 5
 
 ## Cochise - Californian Lager 
-"Tel Cochise faut décocher" 
+
+> "Tel Cochise faut décocher" 
+
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_060.png)
+
+J'experimente ici une lager houblonnée avec un strain de california Common.
 
 > 75cl - 5,5€ - Stock restant : 18
 

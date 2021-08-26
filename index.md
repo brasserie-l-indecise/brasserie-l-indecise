@@ -71,7 +71,7 @@ Wild sour mangue
 
 ## Nos réalisations
 
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_062.png)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_062.jpg)
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_1.jpg)
 

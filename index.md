@@ -22,7 +22,7 @@ La Brasserie, c'est :
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_052.png)
 Retour des consommateurs : Delicieux avec des sushi/makis !
 
-> 75cl - 4€ - Stock restant : 5
+> 75cl - 4€ - Stock restant : 4
 > 
 ### Cut Back Love - Style : California Common
 
@@ -32,9 +32,7 @@ Un style que j'apprécie particulièrement. Ca fait du bien de boire des lagers 
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_054.png)
 
-> 50cl - 4€ - Stock restant : 3
-
-> 75cl - 5,5€ - Stock restant : 4
+> tout vendu
 
 ## Delusion - Kveik DDH IPA (Kveik Voss)
 
@@ -42,25 +40,7 @@ Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et 
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_058.png)
 
-> Tout vendu !
-
-## Moyo - Kveik DDH IPA (Kveik Voss)
-
-Une belle IPA claire et hazy comme on aime, aux houblons Pacifica et Rogue NZ.
-Un arôme fruité avec touches de fleurs d'orangers si on cherche bien !
-
-> Tout vendu !
-
-## Mango Piano 2.0 - Milkshake Mango IPA 
-
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_060.jpg)
-
-Alors, c'est aussi bon que la première ?
-Je vais être honnete, elle a moins le gout de mangue que la première. ça reste une bonne IPA, enjoy
-
-> 75cl - 5,5€ - Stock restant : 4
- 
-> 50cl - 4€ - Stock restant : 6
+> Tout vendu ! J'en referais !
 
 ## Une Robust Porter au seigle
 
@@ -68,27 +48,30 @@ Je vais être honnete, elle a moins le gout de mangue que la première. ça rest
 
 Une belle porter au seigle torréfié. On retrouve des aromes bien chocolatés là dessus. 
 
-> 75cl - 5,5€ - Stock restant : 20
- 
-> 50cl - 4€ - Stock restant : 5
+> 75cl - 5,5€ - Stock restant : 15
 
-## Cochise - Californian Lager 
+## Pelagi - Kveik IPA
 
-> "Tel Cochise faut décocher" 
+Une IPA qui pique pas ! du fruit en veux tu, en voilà.
 
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_060.png)
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_061.png)
 
-J'experimente ici une lager houblonnée avec un strain de california Common.
-
-> 75cl - 5,5€ - Stock restant : 18
-
+> 75cl - 6€ - Stock restant : 10
 
 ## A venir
+
+Red Ale
+
+IPA 
+
+Wild sour mangue
 
 ## Une demande particulière ?
 ...
 
 ## Nos réalisations
+
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_062.png)
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_1.jpg)
 

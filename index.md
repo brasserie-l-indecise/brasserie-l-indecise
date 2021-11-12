@@ -18,25 +18,7 @@ La Brasserie, c'est :
 
 ## Disponible à la brasserie actuellement
 
-### La Ticla - Style : Ginger Ale
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_052.png)
-Retour des consommateurs : Delicieux avec des sushi/makis !
-
-> 75cl - 4€ - Stock restant : 4
-> 
-### Cut Back Love - Style : California Common
-
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_055.jpg)
-
-Un style que j'apprécie particulièrement. Ca fait du bien de boire des lagers equilibrées quand le temps est beau.
-
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_054.png)
-
-> tout vendu
-
 ## Delusion - Kveik DDH IPA (Kveik Voss)
-
-Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et fruité.
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_058.png)
 
@@ -48,23 +30,37 @@ Un peu plus PAS classique, pour satisfaire les aventuriers. C'est super doux et 
 
 Une belle porter au seigle torréfié. On retrouve des aromes bien chocolatés là dessus. 
 
-> 75cl - 5,5€ - Stock restant : 15
+> 75cl - 5,5€ - Stock restant : 4
 
-## Pelagi - Kveik IPA
+## Red Ale
 
-Une IPA qui pique pas ! du fruit en veux tu, en voilà.
+Une ale à l'anglaise, sur des aromes epicés et boisés. 
 
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_061.png)
+> 75cl - 5,5€ - Stock restant : 5
+> 
+## Milkshake IPA 
 
-> 75cl - 6€ - Stock restant : 10
+Une charette (14g/L) de houblons fruités et exotiques pour cette IPA. Du franc parler 'West Coast' avec une bonne dose de lactose pour ajouter de la douceur. C'est du bonheur.
+
+> 75cl - 6,5€ - Stock à venir : 28
 
 ## A venir
 
-Red Ale
+## Baltic Porter
 
-IPA 
+Une solide Baltic Porter. Contrairement à sa voisine britanique, celle-ci est obtenue par fermentation basse (Lager). Un corps de Munich(s) et de sarrasain pour travailler la rondeur. Une decoction de seigle torréfié et leger ajout de grains de café vient rajouter une couche de complexité aux aromes de ce petit bijou.
 
-Wild sour mangue
+Mise en bouteille prévue autour du 20 decembre.
+
+> 50cl - 5€ - Stock à venir : 15
+
+> 75cl - 6,5€ - Stock à venir : 15
+
+## Pale Ale
+
+un Pale auux houblons locaux, avec un petit finish d'avoine (pardon, mais c'est trop bon). Cascade et Target au RDV.
+
+> 75cl - 5,5€ - Stock à venir : 30
 
 ## Une demande particulière ?
 ...
@@ -74,6 +70,8 @@ Wild sour mangue
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_062.jpg)
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_1.jpg)
+
+![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_061.png)
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_055.jpg)
 

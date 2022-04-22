@@ -18,55 +18,32 @@ La Brasserie, c'est :
 
 ## Disponible à la brasserie actuellement
 
+
+## Gotland - Baltic Porter
+
+Un joli porter obtenu avec une levure de Lager, comme le veux le style. une grosse infusion à froid pour les aromes torrefié, et un bon houblonnage pour garder un bel équilibre. C'est du solide.
+
 ![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Gotland_balticPorter.svg)
+
+## Moussache - Session IPA à la mangue 
 
 ![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Moussache.svg)
 
+Une belle robe orange sur cette douceur. Une bière d'été, ça coule tout seul.
+Un peu déçu sur les aromes de mangue, mais ça reste très desaltérant.
+
+![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/moussache.jpg)
+
+## Nanuk - Kveik Double DDH IPA (Kveik Voss)
+
 ![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Nanuk.svg)
+Une belle DIPA de Nounours. Le corps est bien présent avec un houblonnage massif et aromatique et la légèreté de la Kveik Voss : je me suis régalé à faire cette bière, j'espère que ça sera pareil pour vous.
 
 ## Delusion - Kveik DDH IPA (Kveik Voss)
 
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_058.png)
 
 > Tout vendu ! J'en referais !
-
-## Une Robust Porter au seigle
-
-![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/Image_059.png)
-
-Une belle porter au seigle torréfié. On retrouve des aromes bien chocolatés là dessus. 
-
-> 75cl - 5,5€ - Stock restant : 4
-
-## Red Ale
-
-Une ale à l'anglaise, sur des aromes epicés et boisés. 
-
-> 75cl - 5,5€ - Stock restant : 5
-> 
-## Milkshake IPA 
-
-Une charette (14g/L) de houblons fruités et exotiques pour cette IPA. Du franc parler 'West Coast' avec une bonne dose de lactose pour ajouter de la douceur. C'est du bonheur.
-
-> 75cl - 6,5€ - Stock à venir : 28
-
-## A venir
-
-## Baltic Porter
-
-Une solide Baltic Porter. Contrairement à sa voisine britanique, celle-ci est obtenue par fermentation basse (Lager). Un corps de Munich(s) et de sarrasain pour travailler la rondeur. Une decoction de seigle torréfié et leger ajout de grains de café vient rajouter une couche de complexité aux aromes de ce petit bijou.
-
-Mise en bouteille prévue autour du 20 decembre.
-
-> 50cl - 5€ - Stock à venir : 15
-
-> 75cl - 6,5€ - Stock à venir : 15
-
-## Pale Ale
-
-un Pale auux houblons locaux, avec un petit finish d'avoine (pardon, mais c'est trop bon). Cascade et Target au RDV.
-
-> 75cl - 5,5€ - Stock à venir : 30
 
 ## Une demande particulière ?
 ...

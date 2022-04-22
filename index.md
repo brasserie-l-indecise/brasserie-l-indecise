@@ -18,13 +18,11 @@ La Brasserie, c'est :
 
 ## Disponible à la brasserie actuellement
 
-![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Gotland_balticPorter.ai)
+![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Gotland_balticPorter.svg)
 
-![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Moussache.ai)
+![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Moussache.svg)
 
-![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Nanuk.ai)
-
-![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Tofta.ai)
+![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Nanuk.svg)
 
 ## Delusion - Kveik DDH IPA (Kveik Voss)
 

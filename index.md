@@ -1,5 +1,7 @@
 ## Bienvenue sur le site de la Brasserie L'Indecise
 
+<img src="https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/logo.svg">
+
 ![Image](https://brasserie-l-indecise.github.io/brasserie-l-indecise/img_brasserie_4.jpg)
 
 La Brasserie, c'est :
@@ -22,17 +24,14 @@ La Brasserie, c'est :
 ## Gotland - Baltic Porter
 
 Un joli porter obtenu avec une levure de Lager, comme le veux le style. une grosse infusion à froid pour les aromes torrefié, et un bon houblonnage pour garder un bel équilibre. C'est du solide.
-
-![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Gotland_balticPorter.svg)
+<img src="https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Gotland_balticPorter.svg">
 
 ## Moussache - Session IPA à la mangue 
-
-![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Moussache.svg)
+<img src="https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Moussache.svg">
 
 Une belle robe orange sur cette douceur. Une bière d'été, ça coule tout seul.
 Un peu déçu sur les aromes de mangue, mais ça reste très desaltérant.
-
-![Image](https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/moussache.jpg)
+<img src="https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/moussache.jpg">
 
 ## Nanuk - Kveik Double DDH IPA (Kveik Voss)
 

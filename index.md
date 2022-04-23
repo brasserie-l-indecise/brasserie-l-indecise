@@ -36,7 +36,7 @@ Un peu déçu sur les aromes de mangue, mais ça reste très desaltérant.
 ## Nanuk - Kveik Double DDH IPA (Kveik Voss)
 
 <img src="https://github.com/brasserie-l-indecise/brasserie-l-indecise/blob/gh-pages/Nanuk.svg">
-Une belle DIPA de Nounours. Le corps est bien présent avec un houblonnage massif et aromatique et la légèreté de la Kveik Voss : je me suis régalé à faire cette bière, j'espère que ça sera pareil pour vous.
+Une belle DIPA de Nounours. Le corps est bien présent avec un houblonnage important et aromatique et la légèreté de la Kveik Voss : je me suis régalé à faire cette bière, j'espère que ça sera pareil pour vous.
 
 ## Delusion - Kveik DDH IPA (Kveik Voss) [anciennes etiquettes]
 
